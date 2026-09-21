@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
