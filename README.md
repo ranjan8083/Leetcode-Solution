@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [1360-number-of-days-between-two-dates](https://github.com/ranjan8083/Leetcode-Solution/tree/master/1360-number-of-days-between-two-dates) |
 | [3870-count-commas-in-range](https://github.com/ranjan8083/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ranjan8083/Leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ranjan8083/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [1360-number-of-days-between-two-dates](https://github.com/ranjan8083/Leetcode-Solution/tree/master/1360-number-of-days-between-two-dates) |
 ## Two Pointers
 |  |
 | ------- |
